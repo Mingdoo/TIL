@@ -14,7 +14,8 @@
 - [210716 텔레그램 챗봇](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0716/My_Chatbot_Telegram.md)
 - [210719 파이썬 기초](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0716/My_Chatbot_Telegram.md)
 - [210720 파이썬 기초2](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0720/TIL.md) 
-- [210721 Riot api Handling](https://github.com/Mingdoo/TIL/blob/master/0721/TIL.md)
+- [210721 파이썬 기초3](https://github.com/Mingdoo/TIL/blob/master/0721/TIL.md)
+- [210721 Riot api Handling](https://github.com/Mingdoo/TIL/blob/master/0721/riot_api_test/riot_api_handling.md)
 
 ---
 
