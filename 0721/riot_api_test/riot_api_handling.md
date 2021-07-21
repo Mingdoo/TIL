@@ -253,5 +253,5 @@ champion  spell1  spell2    win  kills  deaths  assists  totalDamageDealt  \
 
 생각해보니 내가 쉬바나로 엄청난 똥을 쌌던 기억이 났다.
 
-api 공부는 여기서 끝내야겠다.
+api 공부는 여기서 끝내야겠다. 
 
