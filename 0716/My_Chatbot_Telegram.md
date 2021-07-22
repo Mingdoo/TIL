@@ -14,6 +14,8 @@ https://web.telegram.org/z/
 
 ###### my chat ID : `1826989968`
 
+ 
+
 > Key, Value값의 구분은 `=` , 다음 문장과의 구분은 `&` 으로 한다.
 
 ```python
