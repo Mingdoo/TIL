@@ -11,11 +11,24 @@
 
 ## 분류
 
+#### TIL
+
 - [210716 텔레그램 챗봇](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0716/My_Chatbot_Telegram.md)
-- [210719 파이썬 기초](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0716/My_Chatbot_Telegram.md)
+- [210719 파이썬 기초](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0716/TIL.md)
 - [210720 파이썬 기초2](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0720/TIL.md) 
 - [210721 파이썬 기초3](https://github.com/Mingdoo/TIL/blob/master/0721/TIL.md)
-- [210721 Riot api Handling](https://github.com/Mingdoo/TIL/blob/master/0721/riot_api_test/riot_api_handling.md)
+- [210722 파이썬 기초4](https://github.com/Mingdoo/TIL/blob/master/0722/TIL.md)
 
 ---
+
+#### 코테
+
+- [SWEA D1 문제](https://github.com/Mingdoo/TIL/blob/master/coding_test/D1.md)
+- [SWEA D2 문제](https://github.com/Mingdoo/TIL/blob/master/coding_test/D2.md)
+
+---
+
+#### 끄적끄적
+
+- [210721 Riot api Handling](https://github.com/Mingdoo/TIL/blob/master/0721/riot_api_test/riot_api_handling.md)
 
