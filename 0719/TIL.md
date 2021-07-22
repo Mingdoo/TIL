@@ -242,9 +242,8 @@ print(My_list[0])
 
 ```python
 My_tuple = (1,2,3,4)
+
 ```
-
-
 
 ### range
 
