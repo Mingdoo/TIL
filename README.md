@@ -20,6 +20,7 @@
 - [210722 파이썬 기초4](https://github.com/Mingdoo/TIL/blob/master/0722/TIL.md)
 - [210723 파이썬](https://github.com/Mingdoo/TIL/blob/master/0723/TIL.md)
 - [210724 파이썬](https://github.com/Mingdoo/TIL/blob/master/0724/TIL.md)
+- [210727 파이썬](https://github.com/Mingdoo/TIL/blob/master/0727/TIL.md)
 
 ---
 
