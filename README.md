@@ -21,6 +21,7 @@
 - [210723 파이썬](https://github.com/Mingdoo/TIL/blob/master/0723/TIL.md)
 - [210724 파이썬](https://github.com/Mingdoo/TIL/blob/master/0724/TIL.md)
 - [210727 파이썬](https://github.com/Mingdoo/TIL/blob/master/0727/TIL.md)
+- [210728 json, jwt](https://github.com/Mingdoo/TIL/blob/master/0728/TIL.md)
 
 ---
 
@@ -34,4 +35,6 @@
 #### 끄적끄적
 
 - [210721 Riot api Handling](https://github.com/Mingdoo/TIL/blob/master/0721/riot_api_test/riot_api_handling.md)
+
+- [210728 Upbit api Handling](https://github.com/Mingdoo/TIL/blob/master/0728/upbitapi.md)
 
