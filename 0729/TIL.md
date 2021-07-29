@@ -38,4 +38,33 @@ def standard_deviation(values):
 
 
 
-##### 2.  
+##### 2.  Generic function In python with Singledispatch
+
+```python
+from functools import singledispatch
+
+
+@singledispatch
+# decorator!
+def fprint(data):
+    print(f'({type(data).__name__}) {data}')
+    
+#결과는 : 
+#fprint
+@fprint.register(list)
+@fprint.register(set)
+@fprint.register(tuple)
+
+#fprint.register(list) ..
+#와 같은 방법으로 decorate하는 것이 가능해졌다.
+#Java에서 가능한 generic func가 가능하넹..;ㅋㅋ!!
+def _(data):
+    formatted_header = f'{type(data).__name__} -> index : value'
+    print(formatted_header)
+    print('-' * len(formatted_header))
+    for index, value in enumerate(data):
+        print(f'{index} : ({type(value).__name__}) {value}')
+```
+
+
+
