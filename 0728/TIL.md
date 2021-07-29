@@ -94,3 +94,34 @@ pbmhvLnNoaW4ifQ.MEQCIBSOVBBsCeZ_8vHulOvspJVFU3GADhyCHyzMiBFVyS3qAiB7Tm_ME
 Xi2kLusOBpanIrcs2NVq24uuVDgH71M_fIQGg
 ```
 
+
+
+##### 3. class내 self의 역할
+
+- self를 사용하는 이유 :  인스턴스 메서드는 호출시 첫번째 인자로 인스턴스 자신이 전달되도록 설계됨.
+
+```python
+# 축약형 (객체지향적)
+'apple'.capitalize()
+
+#같은 표현!
+str.capitalize('apple')
+```
+
+
+
+##### 4. CRUD
+
+> Create(생성), Read(읽기), Update(갱신), Delete(삭제)를 묶어서 일컫는 말이다. 사용자 인터페이스가 갖추어야 할 기능(정보의 참조/검색/갱신)을 가리키는 용어로서도 사용된다.
+
+비슷한 예로, 
+
+- ABCD: add(추가), browse(보기), change(변경), delete(삭제)
+- ACID: add(추가), change(변경), inquire(질의), delete(삭제)
+- BREAD: browse(보기), read(읽기), edit(편집), add(추가), delete(삭제)
+- VADE(R): view(참조), add(추가), delete(삭제), edit(편집), 트랜잭션 처리에서는 restore(복원) 추가
+
+출처 : [위키피디아 CRUD](https://ko.wikipedia.org/wiki/CRUD)
+
+
+
