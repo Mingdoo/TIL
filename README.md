@@ -22,6 +22,7 @@
 - [210724 파이썬](https://github.com/Mingdoo/TIL/blob/master/0724/TIL.md)
 - [210727 파이썬](https://github.com/Mingdoo/TIL/blob/master/0727/TIL.md)
 - [210728 json, jwt](https://github.com/Mingdoo/TIL/blob/master/0728/TIL.md)
+- [210802 html, css](https://github.com/Mingdoo/TIL/blob/master/0802/TIL.md)
 
 ---
 
