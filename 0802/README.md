@@ -44,7 +44,7 @@
   </form>
 ```
 
-![cap_01](TIL.assets/cap_01.PNG)
+![cap_01](README.assets/cap_01.PNG)
 
 여기서 사용된 `<div>`는 구간을 나누는 역할을 사용하며, 실제로 시멘틱 코드를 사용하여 더 정확하게 역할을 분배할 수 있게 된다.
 
@@ -63,7 +63,7 @@
   </ul>
 ```
 
-![image-20210802140117065](TIL.assets/image-20210802140117065.png)
+![image-20210802140117065](README.assets/image-20210802140117065.png)
 
  [00_intro.html](00_intro.html) 로 이를 확인할 수 있다.
 

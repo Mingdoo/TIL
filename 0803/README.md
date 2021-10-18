@@ -74,6 +74,6 @@ content-box 는 테두리와 안쪽 여백을 더하고, border-box는 테두리
 
 위와 같은 방법으로 
 
-![image-20210803151759923](TIL.assets/image-20210803151759923.png)
+![image-20210803151759923](README.assets/image-20210803151759923.png)
 
 를 구축할 수 있다. 여기서 `form`은 사용자의 input을 받아 저장하는 역할을 수행한다.
