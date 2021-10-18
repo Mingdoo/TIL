@@ -28,6 +28,8 @@
 - [210914 sqlite3](https://github.com/Mingdoo/TIL/blob/master/0914/README.md)
 - [211003 NLP](https://github.com/Mingdoo/TIL/blob/master/1003/README.md)
 - [211011 NLP](https://github.com/Mingdoo/TIL/blob/master/1011/README.md)
+- [211018 cs(네트워크)](https://github.com/Mingdoo/TIL/blob/master/1018/network.md)
+- [211018 cs(개발상식)](https://github.com/Mingdoo/TIL/blob/master/1018/dev.md)
 
 ---
 
