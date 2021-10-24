@@ -30,6 +30,11 @@
 - [211011 NLP](https://github.com/Mingdoo/TIL/blob/master/1011/README.md)
 - [211018 cs(네트워크)](https://github.com/Mingdoo/TIL/blob/master/1018/network.md)
 - [211018 cs(개발상식)](https://github.com/Mingdoo/TIL/blob/master/1018/dev.md)
+- [211019 cs(운영체제)](https://github.com/Mingdoo/TIL/blob/master/1019/os.md)
+- [211021 cs(운영체제)](https://github.com/Mingdoo/TIL/blob/master/1021/os.md)
+- [211022 cs(데이터베이스)](https://github.com/Mingdoo/TIL/blob/master/1022/db.md)
+- [211023 cs(파이썬)](https://github.com/Mingdoo/TIL/blob/master/1023/python.md)
+- [211018 cs(알고리즘_정렬)](https://github.com/Mingdoo/TIL/blob/master/1024/sorting_algorithm.md)
 
 ---
 
