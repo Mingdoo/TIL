@@ -35,6 +35,7 @@
 - [211022 cs(데이터베이스)](https://github.com/Mingdoo/TIL/blob/master/1022/db.md)
 - [211023 cs(파이썬)](https://github.com/Mingdoo/TIL/blob/master/1023/python.md)
 - [211024 cs(알고리즘_정렬)](https://github.com/Mingdoo/TIL/blob/master/1024/sorting_algorithm.md)
+- [211028 Javascript 기초](https://github.com/Mingdoo/TIL/blob/master/1028/README.md)
 
 ---
 
