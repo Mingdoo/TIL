@@ -43,8 +43,8 @@
 #### 끄적끄적
 
 - [210721 Riot api Handling](https://github.com/Mingdoo/TIL/blob/master/0721/riot_api_test/riot_api_handling.md)
-
 - [210728 Upbit api Handling](https://github.com/Mingdoo/TIL/blob/master/0728/upbitapi.md)
+- [211030 javascript tetris](https://github.com/Mingdoo/TIL/blob/master/1030/README.md)
 
 ---
 
