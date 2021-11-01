@@ -37,6 +37,7 @@
 - [211024 cs(알고리즘_정렬)](https://github.com/Mingdoo/TIL/blob/master/1024/sorting_algorithm.md)
 - [211028 Javascript 기초](https://github.com/Mingdoo/TIL/blob/master/1028/README.md)
 - [211029 Django-serialization](https://github.com/Mingdoo/TIL/blob/master/1029/README.md)
+- [211101 javascript sync, async, append(Child)](https://github.com/Mingdoo/TIL/blob/master/1101/README.md)
 
 ---
 
