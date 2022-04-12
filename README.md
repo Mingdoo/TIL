@@ -38,6 +38,8 @@
 - [211028 Javascript 기초](https://github.com/Mingdoo/TIL/blob/master/1028/README.md)
 - [211029 Django-serialization](https://github.com/Mingdoo/TIL/blob/master/1029/README.md)
 - [211101 javascript sync, async, append(Child)](https://github.com/Mingdoo/TIL/blob/master/1101/README.md)
+- [220127 web socket](https://github.com/Mingdoo/TIL/blob/master/220127/README.md)
+- [220412 react native 초기 설정](https://github.com/Mingdoo/TIL/blob/master/220412/README.md)
 
 ---
 
