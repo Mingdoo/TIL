@@ -41,6 +41,7 @@
 - [220127 web socket](https://github.com/Mingdoo/TIL/blob/master/220127/README.md)
 - [220412 react native 초기 설정](https://github.com/Mingdoo/TIL/blob/master/220412/README.md)
 - [220413 Atomic design](https://github.com/Mingdoo/TIL/blob/master/220413/README.md)
+- [220415 연산자의 차이](https://github.com/Mingdoo/TIL/blob/master/220415/README.md)
 
 ---
 
