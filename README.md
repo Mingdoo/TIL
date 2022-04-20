@@ -43,7 +43,8 @@
 - [220413 Atomic design](https://github.com/Mingdoo/TIL/blob/master/220413/README.md)
 - [220415 연산자의 차이](https://github.com/Mingdoo/TIL/blob/master/220415/README.md)
 - [220416 React Native basics](https://github.com/Mingdoo/TIL/blob/master/220416/README.md)
-- [220418 Redux Core, Redux-saga](https://github.com/Mingdoo/TIL/blob/master/220416/README.md)
+- [220418 Redux Core, Redux-saga](https://github.com/Mingdoo/TIL/blob/master/220418/README.md)
+- [220420 Redux Core, Redux-saga](https://github.com/Mingdoo/TIL/blob/master/220420/README.md)
 
 ---
 
