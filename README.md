@@ -15,7 +15,7 @@
 
 - [210716 텔레그램 챗봇](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0716/README.md)
 - [210719 파이썬 기초](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0719/README.md)
-- [210720 파이썬 기초2](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0720/README.md) 
+- [210720 파이썬 기초2](https://github.com/IHATEMATHEMATICS/TIL/blob/master/0720/README.md)
 - [210721 파이썬 기초3](https://github.com/Mingdoo/TIL/blob/master/0721/README.md)
 - [210722 파이썬 기초4](https://github.com/Mingdoo/TIL/blob/master/0722/README.md)
 - [210723 파이썬](https://github.com/Mingdoo/TIL/blob/master/0723/README.md)
@@ -34,7 +34,7 @@
 - [211021 cs(운영체제)](https://github.com/Mingdoo/TIL/blob/master/1021/os.md)
 - [211022 cs(데이터베이스)](https://github.com/Mingdoo/TIL/blob/master/1022/db.md)
 - [211023 cs(파이썬)](https://github.com/Mingdoo/TIL/blob/master/1023/python.md)
-- [211024 cs(알고리즘_정렬)](https://github.com/Mingdoo/TIL/blob/master/1024/sorting_algorithm.md)
+- [211024 cs(알고리즘\_정렬)](https://github.com/Mingdoo/TIL/blob/master/1024/sorting_algorithm.md)
 - [211028 Javascript 기초](https://github.com/Mingdoo/TIL/blob/master/1028/README.md)
 - [211029 Django-serialization](https://github.com/Mingdoo/TIL/blob/master/1029/README.md)
 - [211101 javascript sync, async, append(Child)](https://github.com/Mingdoo/TIL/blob/master/1101/README.md)
@@ -49,6 +49,7 @@
 - [220426 React Native datetime picker](https://github.com/Mingdoo/TIL/blob/master/220428/README.md)
 - [220606](https://github.com/Mingdoo/TIL/blob/master/220606/README.md)
 - [220607](https://github.com/Mingdoo/TIL/blob/master/220607/README.md)
+- [220610](https://github.com/Mingdoo/TIL/blob/master/220610/README.md)
 
 ---
 
@@ -59,4 +60,3 @@
 - [211030 javascript tetris](https://github.com/Mingdoo/TIL/blob/master/1030/README.md)
 
 ---
-
